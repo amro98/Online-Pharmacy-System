@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'segoe ui light';
+    overflow-x: hidden;
+}
+
+.layer2
+{
+    background-color: #F0F8FF;
+    height:auto;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+}
+.cardtable
+{
+    padding-bottom: 7%;
+    padding-top: 5%;
+    text-align: center;
+    padding-right: 25%;
+}

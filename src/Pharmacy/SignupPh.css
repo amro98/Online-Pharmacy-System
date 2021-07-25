@@ -1,0 +1,12 @@
+.btnsign
+{
+    padding-left: 85px;
+    padding-right: 85px;
+}
+
+.error
+{
+  text-align: center;
+  color: red;
+  background-color: rgb(252, 206, 206);
+}
