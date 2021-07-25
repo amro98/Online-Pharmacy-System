@@ -1,0 +1,83 @@
+.navbar
+{
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    
+}
+.navbar-brand
+{
+    margin-left: 6%;
+    display: flex;
+    position: relative;
+    
+    
+}
+
+
+.navbar-brand p
+{
+    position: absolute;
+    
+    color: #007aff;
+    font-weight:inherit;
+    font-size: larger;
+    top: 55;
+    left: 90;
+    margin-top: 30%;
+    margin-left: 10%;
+    vertical-align: bottom;
+    display: inline;
+}
+.navbar-brand span
+{
+    color: rgb(35, 69, 104);
+    font-size: xx-large;
+    
+}
+
+.navbar-form
+{
+    padding-left: 53%;
+}
+
+.form-inline .btn
+{
+    margin-top: 10px;
+    margin-right: 5px;
+    
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+.form-inline .login
+{
+    margin-right: 90;
+    
+    margin-top: 10;
+    /* padding-left: 16; */
+    /* padding-right: 16; */
+    font-weight: 400;
+
+    background-color: #007aff;
+    color: white;
+    /* border-style:solid; */
+    border-color: #007aff;
+    
+}
+.form-inline .call
+{
+    color:#007aff;
+    margin-right: 20;
+    margin-top: 10;
+    
+    font-weight: 600;
+
+    background-color: transparent;
+    border-style:solid;
+    border-color: transparent;
+    
+
+    
+}

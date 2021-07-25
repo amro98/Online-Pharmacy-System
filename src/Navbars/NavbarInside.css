@@ -1,0 +1,44 @@
+.dropdown {
+  margin-left: 65%;
+  margin-top: 1%;
+}
+
+.dropdown2 {
+  margin-top: 1%;
+  margin-left: -1%;
+  width:3% ;
+  /* background-color: rgb(235, 235, 241);
+  margin-right: 25px;
+  text-align: center; */
+}
+.not {
+  margin-top: 1%;
+  margin-left: 64%;
+  margin-right: 1%;
+  border-radius: 50%;
+  width: 5%;
+  padding: 5px;
+  background-color: rgb(235, 235, 241);
+  border-color: green;
+  color: green;
+  text-align: center;
+  font-size: 29px;
+  border:none;
+
+
+  /* background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px; */
+}
+
+.title
+{
+    background-color: rgb(235, 235, 241);
+    width: 140px;
+    border-radius: 16px;
+}
