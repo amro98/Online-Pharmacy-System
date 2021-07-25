@@ -1,0 +1,26 @@
+.userground
+{
+    background-color: #F0F8FF;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+
+    /* padding-bottom: 40%; */
+    /* height: 30%; */
+    /* text-align: center; */
+}
+
+.cardPro
+{
+    padding-bottom: 7%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.icon
+{
+    color: rgb(3, 43, 82);
+    font-size: 50px;
+}
+
+span{
+    color: rgb(3, 43, 82);
+}

@@ -1,0 +1,108 @@
+body
+{
+    font-family: 'segoe ui light';
+    overflow-x: hidden;
+}
+
+.layer2
+{
+    background-color: #F0F8FF;
+    height:auto;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+}
+
+.matchlst
+{
+    width: 80%;
+    /* padding-left: 5%; */
+    color: black;
+    background-color: white;
+    
+
+    margin-left: 10%;
+    margin-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    /* height: 60px; */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    /* text-align: center; */
+    
+}
+.matchlsth
+{
+    display: inline;
+    margin-top: 5px;
+    padding-top: 30px;
+    text-align: center;
+    /* top: 90%; */
+    /* margin-bottom: 60px; */
+
+
+}
+.matchlsth span
+{
+    color: rgb(9, 9, 247);
+}
+.matchlstc
+{
+    width: 15%;
+}
+.container
+{
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+}
+.changcolor h1
+{
+    color: rgb(3, 43, 82);
+}
+#services h1
+{
+    font-size: 38px;
+    font-weight: 900px;
+    margin-bottom: 30px;
+    /* margin-top: 50%; */
+    color: rgb(3, 43, 82);
+    
+}
+
+#services .form-inline .form-control
+{
+    margin-left: 10%;
+    margin-top: 25px;
+    width: 80%;
+    height: 80px;
+    box-shadow: 0 1px 5px rgb(3, 43, 82);
+    
+}
+
+
+
+.map
+{
+    
+    margin-top: 10%;
+    padding-top: 5%;
+    text-align: center;
+    font-weight: 900px;
+    font-size: 40px;
+    background-color: #eef0f1!important;
+    height: 750px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    margin-bottom: 10%;
+    color: rgb(3, 43, 82);
+    /* padding-bottom: 10%; */
+}
+
+.map2
+{
+    margin-top: 5%;
+    
+    height: 30%;
+    width: 70%;
+    background-color: black;
+    margin-left: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+

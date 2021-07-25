@@ -1,0 +1,116 @@
+/* body
+{
+    font-family: 'segoe ui light';
+    overflow-x: hidden;
+} */
+
+.card
+{
+    width: 40%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-left: 30%;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    height: 75%;
+    
+}
+
+.card .ph
+{
+  /* background-color: #f1f1f1; */
+  padding-top: 2;
+  padding-bottom: 2;
+  margin-right: 20%;
+  padding-right: 25%;
+  /* margin-left: -20%; */
+  /* padding-left: -12%; */
+}
+
+
+
+
+
+/* Bordered form */
+.card form {
+    border: 3px solid #f1f1f1;
+    height: 100%;
+  }
+  
+  /* Full-width inputs */
+  input[type=email], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  .container button {
+    background-color: #007aff;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .container .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 20px 0 10px 0;
+    font-size: 30;
+    font-weight: bolder;
+    color: rgb(19, 54, 19);
+    
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  
+
+
+
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 16px;
+    color: black;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
+
+
+  .error
+{
+  text-align: center;
+  color: red;
+  background-color: rgb(252, 206, 206);
+}

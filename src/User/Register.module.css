@@ -1,0 +1,127 @@
+.card2
+{
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 30%;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    height: 80%;
+    margin-bottom: 1.5%;
+    background-color: white;
+ 
+    
+}
+ .form2 {
+  border: 3px solid #f1f1f1;
+  /* width: 99%; */
+  height: 100%;
+  /* margin-left: 0.5%; */
+}
+/* .form 
+{
+    width: 99%;
+    margin-left: 0.5%;
+} */
+
+.container2
+{
+    
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.container2 label
+{
+  font-size:medium;
+  display:inline;
+
+}
+
+
+/* * {box-sizing: border-box} */
+
+/* Full-width input fields */
+.container2  input[type=text] {
+  width: 50%;
+  padding: 5px;
+  /* margin: 5px 0 22px 0; */
+  margin-left: 10px;
+  margin-bottom: 15px;
+  display:inline;
+  border: none;
+  background: #f1f1f1;
+  
+}
+.container2 input[type=password]
+{
+  width: 50%;
+  padding: 5px;
+  margin: 5px 0 22px 0;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  display:inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+.container2 input[type=text]:focus, .container2 input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* .card hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+} */
+
+/* Set a style for all buttons */
+.clearfix button {
+  background-color: #007aff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.clearfix .cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.container2 .cancelbtn, .container2 .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+    width: 100%;
+  }
+}
+
+
+.error
+{
+  text-align: center;
+  color: red;
+  background-color: rgb(252, 206, 206);
+}

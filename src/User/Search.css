@@ -1,0 +1,19 @@
+#services .form-inline .form-control
+{
+    margin-left: 10%;
+    margin-top: 25px;
+    width: 80%;
+    height: 80px;
+    /* box-shadow: 0 1px 5px rgb(3, 43, 82); */
+    
+}
+
+#services h1
+{
+    font-size: 38px;
+    font-weight: 900px;
+    margin-bottom: 30px;
+    /* margin-top: 50%; */
+    color: rgb(3, 43, 82);
+    
+}
