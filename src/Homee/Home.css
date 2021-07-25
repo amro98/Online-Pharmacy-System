@@ -1,0 +1,54 @@
+/* body
+{
+    font-family: 'segoe ui light';
+    overflow-x: hidden;
+} */
+
+.layer
+{
+    /* background-image:`url(../images/bills.jpg)`; */
+    height: 87%;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    /* opacity: 0.5; */
+}
+
+.header-content
+{
+    
+    background-size: cover;
+    padding-top: 7%;
+    /* height: 100vh; */
+    
+    
+}
+.header-content .container
+{
+    margin-top: 60;
+    
+    
+}
+.header-content .row
+{
+    
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: 10%;
+    color: black;
+}
+
+.header-content h1
+{
+    font-size: 47px;
+    font-weight:normal;
+    color: black;
+    line-height: 1.25;
+    margin-bottom: 60;
+    
+}
+.header-content h4
+ {
+    margin-top: 25;
+    font-weight: 600;
+    
+    
+ }
